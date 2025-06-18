@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Arthur Ghazaryn</h1>
+<h1 align="center">Hey there! 👋 I'm Lumin</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
